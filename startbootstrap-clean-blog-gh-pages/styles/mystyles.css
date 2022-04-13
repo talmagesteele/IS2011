@@ -1,0 +1,66 @@
+
+.Index1{
+    font-family: cursive;
+    font-weight: bold;
+    color: bisque ;
+}
+.Index2{
+    font-style: italic;
+    color: bisque;
+}
+
+.About1{
+    font-family: fantasy;
+    color: bisque;
+}
+.About2{
+    font-size: 40px;
+    font-style: italic;
+    color: bisque;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+.CenterResume{
+    text-align: center;
+}
+.About3{
+    font-family: cursive;
+    color: bisque;
+    text-align: center;
+}
+.Hawaii{
+    float: left;
+}
+.Bonell{
+    float: right;
+}
+.Bold{
+    font-weight: bold;
+    font-size: x-large;
+}
+li{
+    font-weight: normal;
+}
+    
+.Border{
+    border: 5px solid black;
+}
+.Underline{
+    text-decoration: underline; 
+    color: black;
+}
+
+ .Back{
+     background-color: rgb(169, 221, 238);
+ }
+ 
+
+
+
+    

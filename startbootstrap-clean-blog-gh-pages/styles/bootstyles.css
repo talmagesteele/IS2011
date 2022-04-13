@@ -1,0 +1,82 @@
+.header{
+    background-color: rgb(169, 221, 238);
+    text-align: Right;
+}
+.tableauPlaceholder{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+
+body{
+    background-color: rgb(169, 221, 238);
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+
+.change{
+    font-size: large;
+    color: Black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.common{
+    background-color: rgb(169, 221, 238);
+    border: solid 2px; color: black;
+    position: absolute ;
+}
+
+.header1{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px 
+}
+ 
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 64px;
+    position: fixed;
+
+}
+
+.mainbody{
+    top: 114px;
+    bottom: 64 px;
+    left: 114px;
+    right: 114px;
+
+}
+
+.rightmenu{
+    top: 114px;
+    bottom: 64px;
+    right: 5px;
+    width: 100;
+    position: fixed;
+}
+
+.footer{
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    position: fixed;
+
+}
+
+.Center{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.title{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
